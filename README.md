@@ -1,6 +1,6 @@
 ![htbrandao stats](https://github-readme-stats.vercel.app/api/?username=htbrandao&theme=gruvbox&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=htbrandao&theme=gruvbox)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=htbrandao&theme=gruvbox&layout=compact)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=htbrandao&theme=gruvbox&repo=flask-reCAPTCHA-example)](https://github.com/htbrandao/flask-reCAPTCHA-example)
 
